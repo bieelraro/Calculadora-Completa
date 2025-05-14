@@ -1,0 +1,7 @@
+C:\Users\joao.xavier\Desktop\estudos\c#\ProjetoCalcCompleta\ProjetoCalcCompleta\bin\Debug\ProjetoCalcCompleta.exe.config
+C:\Users\joao.xavier\Desktop\estudos\c#\ProjetoCalcCompleta\ProjetoCalcCompleta\bin\Debug\ProjetoCalcCompleta.exe
+C:\Users\joao.xavier\Desktop\estudos\c#\ProjetoCalcCompleta\ProjetoCalcCompleta\bin\Debug\ProjetoCalcCompleta.pdb
+C:\Users\joao.xavier\Desktop\estudos\c#\ProjetoCalcCompleta\ProjetoCalcCompleta\obj\Debug\ProjetoCalcCompleta.csproj.AssemblyReference.cache
+C:\Users\joao.xavier\Desktop\estudos\c#\ProjetoCalcCompleta\ProjetoCalcCompleta\obj\Debug\ProjetoCalcCompleta.csproj.CoreCompileInputs.cache
+C:\Users\joao.xavier\Desktop\estudos\c#\ProjetoCalcCompleta\ProjetoCalcCompleta\obj\Debug\ProjetoCalcCompleta.exe
+C:\Users\joao.xavier\Desktop\estudos\c#\ProjetoCalcCompleta\ProjetoCalcCompleta\obj\Debug\ProjetoCalcCompleta.pdb
